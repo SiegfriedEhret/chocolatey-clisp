@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>clisp</id>
+    <title>CLISP</title>
+    <version>2.49</version>
+    <authors>CLISP</authors>
+    <owners>SiegfriedEhret</owners>
+    <summary>CLISP package</summary>
+    <description>CLISP is a Common Lisp implementation. Common Lisp is a high-level, general-purpose, object-oriented, dynamic, functional programming language.</description>
+    <projectUrl>http://www.clisp.org</projectUrl>
+    <tags>lisp clisp</tags>
+    <licenseUrl>http://www.gnu.org/copyleft/fdl.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>http://www.clisp.org/clisp.png</iconUrl>
+  </metadata>
+</package>
+
