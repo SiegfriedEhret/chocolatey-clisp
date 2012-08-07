@@ -6,7 +6,7 @@ I made a package for [CLISP](http://www.clisp.org/).
 
 # the files
 - tools/chocolateyInstall.ps1 : the Windows Powershell installation script.
-- install.ps1 : found this in other packages, so I added it too.
+- tools/install.ps1 : found this in other packages, so I added it too.
 - clisp.nuspec : the package description.
 - clisp.2.49.nupkg : the package packed !
 
